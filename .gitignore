@@ -2,7 +2,7 @@
 .gradle
 /local.properties
 #++VL01
-/.idea/
+/.idea
 #--VL01
 /.idea/caches
 /.idea/libraries
