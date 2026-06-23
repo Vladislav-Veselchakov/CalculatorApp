@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="operand1">Операнд 1:</string>
+    <string name="operand2">Операнд 2:</string>
+    <string name="operation">Операция:</string>
+    <string name="btn_calc">Посчитать:</string>
+    <string name="operations_set">+, -, *, /:</string>
+    <string name="result_text">result</string>
+    <string name="some_error">err: check input (VL)</string>
+    <string name="unknown_operation">err: операция не корректная! (VL)</string>
+</resources>
